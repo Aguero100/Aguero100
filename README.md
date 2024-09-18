@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## My name is Kirill
+## I study at the Financial University, in the Data Engineering program. I strive to become a data analyst and develop in the IT industry.
+
 <!--
 **Aguero100/Aguero100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
